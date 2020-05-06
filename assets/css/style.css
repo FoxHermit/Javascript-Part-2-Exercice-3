@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+img{
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid white 1px;
+}
